@@ -1,0 +1,19 @@
+user:
+  name: 打工战士
+  first_name: ""
+  last_name: ""
+  email: 1491459939@qq.com
+  domain: amadeus5201.com
+  describe: 宇宙人
+favicon:
+  visibilitychange: true
+banner:
+  use_cover: true
+sidebar:
+  typed_text:
+    - 宇宙人
+    - 未来人
+    - 超能力者
+footer:
+  live_time:
+    enable: true
